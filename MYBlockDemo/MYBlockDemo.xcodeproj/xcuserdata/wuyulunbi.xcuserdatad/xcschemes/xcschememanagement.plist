@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>BlockDemo.xcscheme</key>
+		<key>MYBlockDemo.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>2574EB011DAB1739006227D1</key>
+		<key>256EBE0D1DAB39C2008B058D</key>
 		<dict>
 			<key>primary</key>
 			<true/>

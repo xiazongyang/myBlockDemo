@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2574EB011DAB1739006227D1"
-               BuildableName = "BlockDemo.app"
-               BlueprintName = "BlockDemo"
-               ReferencedContainer = "container:BlockDemo.xcodeproj">
+               BlueprintIdentifier = "256EBE0D1DAB39C2008B058D"
+               BuildableName = "MYBlockDemo.app"
+               BlueprintName = "MYBlockDemo"
+               ReferencedContainer = "container:MYBlockDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2574EB011DAB1739006227D1"
-            BuildableName = "BlockDemo.app"
-            BlueprintName = "BlockDemo"
-            ReferencedContainer = "container:BlockDemo.xcodeproj">
+            BlueprintIdentifier = "256EBE0D1DAB39C2008B058D"
+            BuildableName = "MYBlockDemo.app"
+            BlueprintName = "MYBlockDemo"
+            ReferencedContainer = "container:MYBlockDemo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2574EB011DAB1739006227D1"
-            BuildableName = "BlockDemo.app"
-            BlueprintName = "BlockDemo"
-            ReferencedContainer = "container:BlockDemo.xcodeproj">
+            BlueprintIdentifier = "256EBE0D1DAB39C2008B058D"
+            BuildableName = "MYBlockDemo.app"
+            BlueprintName = "MYBlockDemo"
+            ReferencedContainer = "container:MYBlockDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2574EB011DAB1739006227D1"
-            BuildableName = "BlockDemo.app"
-            BlueprintName = "BlockDemo"
-            ReferencedContainer = "container:BlockDemo.xcodeproj">
+            BlueprintIdentifier = "256EBE0D1DAB39C2008B058D"
+            BuildableName = "MYBlockDemo.app"
+            BlueprintName = "MYBlockDemo"
+            ReferencedContainer = "container:MYBlockDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
