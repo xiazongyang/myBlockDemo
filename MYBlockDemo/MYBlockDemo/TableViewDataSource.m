@@ -30,9 +30,9 @@
     self = [super init];
     if (self) {
         
-        _cellConfigBlock = configBlock;
-        _numberOfSectionsConfigBlock = numberOfSectionsConfigBlock;
-        _numberOfRowsInSectionConfigBlock = numberOfRowsInSectionConfigBlock;
+        _cellConfigBlock = [configBlock copy];
+        _numberOfSectionsConfigBlock = [numberOfSectionsConfigBlock copy];
+        _numberOfRowsInSectionConfigBlock = [numberOfRowsInSectionConfigBlock copy];
     }
     return self;
     
